@@ -1,6 +1,5 @@
-# koalas_demos
-Koalas Demos
+# Koalas Demos
 
-Collection of notebooks demonstrating the usage of Koalas
+Collection of notebooks demonstrating the usage of Koalas.
 
 [Koalas docs](https://koalas.readthedocs.io/en/latest/)
